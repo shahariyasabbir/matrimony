@@ -5,6 +5,7 @@ import haniaPhoto from '../assets/Hania.png'
 import mrunalPhoto from '../assets/mrunal.png'
 import shubrahPhoto from '../assets/Shubrah.png'
 import targaryPhoto from '../assets/targarian.png'
+import saipallabi from '../assets/pallabi.jpg'
 
 const brides = [
   {
@@ -21,9 +22,9 @@ const brides = [
     ],
   },
    {
-    name: 'Dure Fishan',
+    name: 'saipallabi ',
     role: 'The Bride',
-    photo: dureFishanPhoto,
+    photo: saipallabi,
     fields: [
       { label: 'Full Name',  value: 'Dure Fishan' },
       { label: 'Age',        value: '25' },
