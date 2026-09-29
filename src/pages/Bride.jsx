@@ -20,6 +20,19 @@ const brides = [
       { label: 'Education',  value: 'B.Sc. in English' },
     ],
   },
+   {
+    name: 'Dure Fishan',
+    role: 'The Bride',
+    photo: dureFishanPhoto,
+    fields: [
+      { label: 'Full Name',  value: 'Dure Fishan' },
+      { label: 'Age',        value: '25' },
+      { label: 'Height',     value: '5 ft 4 in' },
+      { label: 'Complexion', value: 'Fair' },
+      { label: 'Religion',   value: 'Islam' },
+      { label: 'Education',  value: 'B.Sc. in English' },
+    ],
+  },
   {
     name: 'Hania ',
     role: 'The Bride',
