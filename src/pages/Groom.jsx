@@ -11,6 +11,9 @@ import refatPhoto from '../assets/Refat.png'
 import seyamPhoto from '../assets/Seyam.png'
 import tanjilPhoto from '../assets/Tanjil.png'
 import yeasinPhoto from '../assets/Yeasin.png'
+import atiqphoto from '../assets/atiq.jpg'
+
+
 
 const grooms = [
   {
@@ -26,6 +29,21 @@ const grooms = [
       { label: 'Life Motto', value: 'Live with purpose' },
       { label: 'Profession', value: 'Product Developer' },
       { label: 'Education', value: 'B.Sc. in Computer Science' },
+    ],
+  },
+   {
+    name: 'Atiq',
+    role: 'The Groom',
+    photo: atiqphoto,
+    fields: [
+      { label: 'Full Name', value: 'Anamul Islam' },
+      { label: 'Age', value: '28' },
+      { label: 'Height', value: '5 ft 7 in' },
+      { label: 'Net Worth', value: '1.2 crore' },
+      { label: 'Religion', value: 'Islam' },
+      { label: 'Life Motto', value: 'Live with my pasandita aurat' },
+      { label: 'Profession', value: 'pharmacist' },
+      { label: 'Education', value: 'B.Sc. in pharmacy' },
     ],
   },
   {
